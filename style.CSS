@@ -1,0 +1,77 @@
+body{
+
+margin: 0;
+padding: 0;
+}
+.test{
+    background: rgb(238,119,174);
+    background: linear-gradient(0deg, rgba(238,119,174,1) 50%, rgba(255,255,255,1) 50%);
+
+}
+.Box1 {
+      width: 1450px;
+    height: 516px;
+    flex-shrink: 0;
+    background: #A3C9D6;
+    position: absolute;
+
+}
+.Box2 {
+    width: 1450px;
+    height: 516px;
+    flex-shrink: 0;
+    background: #F1F1F1;
+    position: absolute;
+
+}
+
+.Box3 {
+    width: 1274px;
+height: 449px;
+flex-shrink: 0;
+background: #FFA1A1;
+position: relative;
+margin: auto;
+
+top: 67px;
+
+}
+.Box4 {
+    width: 1274px;
+height: 332px;
+flex-shrink: 0;
+background: #FFF;
+box-shadow: 2px 7px 18px 0px rgba(0, 0, 0, 0.19);
+position: relative;
+margin: auto;
+top: 67px;
+}
+.img {
+    position: relative;
+top: -480px;
+left: 530px;
+margin: auto;
+}
+.threebars {
+    left: 175px;
+    position: relative;
+    top: -1010px;
+    
+}
+.bag {
+    position: relative;
+    top: -1050px;
+    left: 1250px;
+}
+.text {
+    position: relative;
+    top: -670px;
+    left:665px;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.text2 {
+    position: relative;
+    top: -670px;
+    left:665px;
+}
